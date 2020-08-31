@@ -3,5 +3,6 @@
 
 char=str(input())
 # ord function helps us to convert any string into ascii value assigned to it
+
 v=ord(char)
 print(v)
