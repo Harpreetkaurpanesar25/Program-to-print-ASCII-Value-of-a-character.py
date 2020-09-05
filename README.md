@@ -6,3 +6,4 @@ char=str(input())
 
 v=ord(char)
 print(v)
+ 
